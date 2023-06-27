@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ChatGpt Clone Project](https://chat.openai.com/)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning ** Advance DSA**
 
 - 👯 I’m looking to collaborate on [Various Projects](https://github.com/)
 
