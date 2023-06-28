@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **My projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://rahulpanwarportfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rahulpanwarportfolio1.netlify.app/)
 
 - 💬 Ask me about **React, MongoDB, Express, Nodejs,**
 
 - 📫 How to reach me **rahulpanwar8101@gmail.com**
 
-- 📄 Know about my experiences [https://rahulpanwarportfolio.netlify.app/](https://rahulpanwarportfolio.netlify.app/)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OPfiBKbcmMixkqnE3pDaVY3OA7FIpwJ5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
