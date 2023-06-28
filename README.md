@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **My projects**
 
-- 👨‍💻 All of my projects are available at [https://rahulpanwarportfolio.netlify.app/](https://rahulpanwarportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rahulpanwarportfolio1.netlify.app/)
 
 - 💬 Ask me about **React, MongoDB, Express, Nodejs,**
 
