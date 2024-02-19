@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpanwar1&label=Profile%20views&color=0e75b6&style=flat" alt="rahulpanwar1" /> </p>
 
-- 🔭 I’m currently working on [ChatGpt Clone Project](https://chat.openai.com/)
+- 🔭 I’m currently working on [New Projects](https://github.com/)
 
-- 🌱 I’m currently learning **Advance DSA**
+- 🌱 I’m currently learning **New Skills and Technologies**
 
 - 👯 I’m looking to collaborate on [Various Projects](https://github.com/)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rahulpanwarportfolio1.netlify.app/)
 
-- 💬 Ask me about **React, MongoDB, Express, Nodejs,**
+- 💬 Ask me about **C++, Python, React, MongoDB, Express, Nodejs**
 
 - 📫 How to reach me **rahulpanwar8101@gmail.com**
 
