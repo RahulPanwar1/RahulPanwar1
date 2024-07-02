@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Various Projects](https://github.com/)
 
-- 🤝 I’m looking for help with **My projects**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rahulpanwarportfolio1.netlify.app/)
 
 - 💬 Ask me about **C++, Python, React, MongoDB, Express, Nodejs**
