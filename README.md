@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rahulpanwar8101@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Q1XQbhzBm1bj0dgVojGdQ1VmZAmmwG_v/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pGPMuFlazQztWPu25W0lpny0Cc5VVexW/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
